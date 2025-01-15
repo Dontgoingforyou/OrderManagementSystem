@@ -5,7 +5,8 @@
 ## Стек технологий
 
 - Python 3.12
-- Django 5
+- Django 5+
+- DRF
 - SQLite
 - HTML/CSS
 - Docker
